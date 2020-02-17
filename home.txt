@@ -1,1 +1,3 @@
-
+Name=Miriam Nana Amoako
+Gender-Female
+Email-miriamamoako98@gmail.com
